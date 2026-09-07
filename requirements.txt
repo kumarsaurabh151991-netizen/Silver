@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+sqlalchemy>=2.0
+bcrypt
+python-dotenv
+pandas
+plotly
+langchain
+langchain-openai
+langchain-community
+sse-starlette
